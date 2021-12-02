@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        String number = "4222222222222";
+        String number = "586824160825533338";
         System.out.println(String.format("Result is %s", isValidCardNumber(number) ? "OK" : "FAIL"));
     }
 
